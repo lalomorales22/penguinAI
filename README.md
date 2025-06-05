@@ -27,6 +27,10 @@ node scripts/jokes.js add "Setup" "Punchline" [tag]
 node scripts/jokes.js prompt      # get a random joke prompt
 ```
 
+Jokes you add through the CLI are stored locally in
+`resources/jokes/notebook.json`. This file is ignored by git so your
+personal joke collection stays private by default.
+
 ## Feature Requests
 
 Curious about where penguinAI is headed? Check out the

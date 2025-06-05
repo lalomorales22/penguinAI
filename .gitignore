@@ -21,3 +21,6 @@ vscode.db
 product.overrides.json
 *.snap.actual
 .vscode-test
+
+# Joke notebook
+resources/jokes/notebook.json

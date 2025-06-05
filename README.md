@@ -16,6 +16,12 @@ Clone the repository and run the application using the existing build scripts. T
 
 Contributions focused on jokes, puns, and witty content are welcome.
 
+## Feature Requests
+
+Curious about where penguinAI is headed? Check out the
+[feature request list](docs/FEATURE_REQUESTS.md) for a roadmap of comedy-focused
+improvements we're considering.
+
 ## License
 
 penguinAI inherits the [MIT](LICENSE.txt) license from Code - OSS.
